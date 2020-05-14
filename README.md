@@ -5,3 +5,9 @@ DEV bisa mengcommit, dan mempush apapun dari branch ini.
 ada bug, Tidak masalah
 
 bug beres, maka saatnya melakukan finish feature
+***
+
+FINISH FEATURE :
+- Memerge branch ini ke Develop
+- menghapus local branch feature ini
+- menghapus remote breanch feature ini
