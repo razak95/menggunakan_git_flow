@@ -4,3 +4,4 @@ Ini dari SS-10, adalah branch yang dipakai oleh DEV untuk mengerjakan fitur-fitu
 DEV bisa mengcommit, dan mempush apapun dari branch ini.
 ada bug, Tidak masalah
 
+bug beres, maka saatnya melakukan finish feature
